@@ -113,7 +113,8 @@ Other Outputs:
 
 ## 📊 Score Distribution
 
-![Score Distribution](E:\Projects\Zeru_Assignment-2\compound-risk-scoring\data\score_distribution.png)
+![Score Distribution](data/score_distribution.png)
+
 ---
 ## ✍️ Risk Indicator Justification
 | Metric                  | Interpretation         |

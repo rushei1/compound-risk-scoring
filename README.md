@@ -61,8 +61,8 @@ This will:
 - API: [CovalentHQ](https://www.covalenthq.com/docs/api/)
 - Network: Ethereum Mainnet
 - Scope: Only Compound-specific interactions (`borrow`, `repayBorrow`, `mint`, `redeem`, `redeemUnderlying`, `liquidateBorrow`)
-
-Filtering: Method names from decoded log_events per transaction
+- Filtering: Method names from decoded log_events per transaction
+- 
 ---
 ## 🧠 Feature Engineering
 | Feature              | Description                              |
